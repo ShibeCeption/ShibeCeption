@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShibeCeption
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript/JS
+- 🌱 I’m currently leaning music
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me email me shibaception@gmail.com
 
