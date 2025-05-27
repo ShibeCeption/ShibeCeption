@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShibeCeption
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently developing a game (Snek)
+- 👀 I’m interested in C
+- 🌱 I'm currently learning C
 - 📫 How to reach me email me shibeception@proton.me
 
 <!---
